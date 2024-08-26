@@ -22,7 +22,7 @@
 
 <img align="center" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-<h3 align="left">Tech Stack:</h3><br>
+<h3 align="left">GitHub Stats:</h3><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=madhukantcodes&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=madhukantcodes&theme=radical&hide_border=false)<br/>
